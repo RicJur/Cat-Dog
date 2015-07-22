@@ -1,2 +1,19 @@
-First Test
-Second test
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Test site</title>
+</head>
+
+<body>
+<div style="color:#0000FF">
+  <h1>The color of the pin is blue!!</h1>
+</div>
+<table class="button success">
+        <tr>
+             <a href="#">Dogs for higher!</a>  
+        </tr>
+    </table>
+  <p>This is a paragraph, thats what's the P is for.</p>
+</body>
+
+</html>
